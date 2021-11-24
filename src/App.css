@@ -1,0 +1,49 @@
+.header{
+  background: black;
+}
+.footer{
+  background: #696969;
+}
+.content{
+  background: #CCCCCC;
+}
+.menu{
+  background: white;
+}
+table tr td {
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.menu table tr td a {
+  color: black;
+  text-decoration: none;
+}
+.menu table tr td:hover {
+  background: #808080;
+  color: white;
+}
+.menu table tr td a:hover {
+  background: #808080;
+  text-decoration: none;
+  color: white;
+}
+.footer{
+  height: 40px;
+  color: white;
+  
+  justify-content: center;
+  align-items: center;
+}
+.text-center
+{
+  color: white;
+}
+.text-footer
+{
+  color: blue;
+}
+.card{
+ margin: 20px;
+}
+
